@@ -7,6 +7,7 @@ This project is an e-commerce application built with Java 21, Spring Boot, and M
 - **Java 21**: The latest version of Java for building robust and high-performance applications.
 - **Spring Boot**: A framework for building production-ready applications quickly and easily.
 - **MySQL**: A relational database management system for storing and managing application data.
+- **Spring Security**: A powerful and customizable authentication and access control framework for securing Spring-based applications.
 
 ## Getting Started
 
@@ -20,8 +21,7 @@ This project is an e-commerce application built with Java 21, Spring Boot, and M
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/dream-shops.git
-    cd dream-shops
+    git clone https://github.com/rvega1204/spring-boot-dream-shops.git
     ```
 
 2. **Set up the database:**
@@ -52,7 +52,7 @@ This project is an e-commerce application built with Java 21, Spring Boot, and M
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes. The project it's free!.
+Contributions are welcome! Please fork the repository and create a pull request with your changes. The project is free to use!
 
 ## License
 
