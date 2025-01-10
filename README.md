@@ -1,6 +1,6 @@
 # Dream Shops
 
-This project is an e-commerce application built with Java 21, Spring Boot, and MySQL.
+This project is an e-commerce application(back end) built with Java 21, Spring Boot, and MySQL. You can use Postman to test the endpoints.
 
 ## Technologies Used
 
